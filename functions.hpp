@@ -11,4 +11,5 @@ unsigned int Max(unsigned int& longest, unsigned int& count);
 std::string Identity(
     std::map<std::string, std::vector<unsigned int>>& datatable,
     std::vector<unsigned int>& str_count);
+
 #endif
